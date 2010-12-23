@@ -1,0 +1,500 @@
+@1 = ~ Breagar: Contents ~
+@2 = ~ My BGT have not installed. Installation will be aborted. ~
+@3 = ~ An invisible force seems to be above these stairs and shield the basement. ~
+@4 = ~ dwarf smith ~
+@5 = ~ ZWERGENSCHMIED: In the halls of the dwarf clan is considered the mastery of a craft to be obtained as the highest art. Members of other races, dwarves are best known as a brave miners and talented blacksmiths, just think of where the latter through their elaborate weapons around the world to besonderne reputation. The typical dwarf smith is strong and tough, the long work on an open fire has made him impervious to the heat. A true master blacksmith recognizes the secrets that holds a workpiece in itself, at first glance. Although the Smith does not hesitate to protect his anvil against any threats, he knows the most weapons but only on the training ground and relies on the fight massive slashing weapons like hammers and axes.
+
+Special advantages:
+- Fire Resistance +1 each level (starting with a value of 5)
+- Increased Sagenkunde
+- Has the ability to "ghost Hammer"
+
+Specific drawbacks:
+- Can only axes and hammers gain Groﬂmeisterschaft
+- Can be only "one-hand combat" specialize ~
+@6 = ~speed call setup Breagars~ 
+@7 = ~ Please select
+[1] 1 hours real-time conversations between the individual (recommended)
+[2] 45 minutes real time between conversations
+[3] 30 minutes real time between conversations
+[4] 15 minutes real time between conversations
+[5] 1 hour 30 minutes real time between conversations
+~
+@8 = ~ placeholder_value ~
+@9 = ~ Please select 1, 2, 3, 4 or 5 and confirmed with Enter. ~
+@10 = ~ 1 hour real-time conversations between ~
+@11 = ~ 45 minutes real time between conversations ~
+@12 = ~ 30 minutes real time between conversations ~
+@13 = ~ 15 minutes real time between conversations ~
+@14 = ~ 1 hour 30 minutes real time between conversations ~
+@15 = ~ The Book of Blacksmithing ~
+@16 = ~ The Book of Blacksmithing is a thick, heavy tome in brittle, old leather bound. The pages are scribbled closely with dwarven runes and diagrams well say nothing to anyone who is not his life was standing at the anvil. ~
+@17 = ~ Breagars hammer ~
+@18 = ~ Do not think even think to use him for anything other than for forging ... ~
+@19 = ~ An unspoiled lump iron~
+@20 = ~ A nice chunk of iron, ideal for demanding ironwork. ~
+@21 = ~ Breagars stump ~
+@22 = ~ At the accident at the Thunder Hammer smithy Bregar lost his left hand. The wound was indeed cured, but offers her scarred tissue not beautiful sight. ~
+@23 = ~ Breagars missing hand ~
+@24 = ~ There was demolished Breagars hand in the accident in the thunder hammer forging he can contribute on this page no longer rings. ~
+@25 = ~ Silver chain mail ~
+@26 = ~ Silver Helmet ~
+@27 = ~ Emerald ~
+@28 = ~ This gem looks clearly as though he had once been a part of a weapon. ~
+@29 = ~ Sapphire ~
+@30 = ~ Rubin ~
+@31 = ~ fire herb branch ~
+@32 = ~ The berries of the fire herb disgusting, but are appreciated by children and alchemists high. The latter use the red-hot ingredient "Spectrin" around their watering a certain glow to confer, the former estimate the same effect in particular during the morning walk on the quiet village. ~
+@33 = ~peppercorns~ 
+@34 = ~ The pepper tree is a plant of the family Piperaceae, the fruits of a supply is included with alkaloid piperine sharp-tasting spice. ~
+@35 = ~Torn Recipe~ 
+@36 = ~ Recipe of the Open Fire
+
+Ingredients:
+
+1 complete human skeleton
+1 commercial Explosionstrank
+1 Emerald
+1 sprig of the bush fire weed
+1 handful of peppercorns
+
+(This cancels the recipe) ~
+@37 = ~ (The upper half appears to be missing)
+
+Preparation:
+
+1st Drape all the ingredients to the first round.
+2nd Get the last second in the trickle.
+3rd Take half of the fourth and give them ground down to the Second.
+4th Shake gently
+5th Enter the second half of the Fourth to the Second
+6th Shake vigorously.
+7th Let the others drop into second and wait until it has dissolved.
+
+Not suitable for children under three years! ~
+@38 = ~ piece Meteoritenerz ~
+@39 = ~ This piece has Meteoritenerz Breagar diverted in order to examine it more closely. ~
+@40 = ~ +2 ax Berronars ~
+@41 = ~ To this legendary ax There are many legends. Supposedly Moradin have forged even this weapon as a gift to his faithful wife Berronar, but by a series of unfortunate events broke the gun and the precious stones that adorned were lost.
+
+While the ax has lost some of this damage by its force, it is in the hands of a respectable dwarf is still a useful weapon against all evil.
+
+FEATURES:
+
+For each hit a 10% chance the enemy has owned for 10 seconds to knock her (saving throw vs. death, +2 penalty).
+
+Damage: 1d10 +2 (blade)
+ETW0 Bonus: -2
+Weight: 7
+Initiative factor: 4
+Minimum thickness 10
+Skill: Axe
+Type: 1-handed
+
+Can only be used by:
+- Good nature
+- Dwarf
+- Barbarians
+- Combatants ~
+@42 = ~ +5 Berronars ax ~
+@43 = ~ To this legendary ax There are many legends. Supposedly Moradin have forged even this weapon as a gift to his faithful wife Berronar.
+
+On your journey through the Underdark and Breagar <CHARNAME> found the missing gems and repaired the ax in Cromwell's forge. Since then, the ax shines in new splendor and is a formidable weapon in the fight against evil.
+
+FEATURES:
+
+For each hit a 50% chance the enemy has owned for 10 seconds to knock her (saving throw vs. death, +2 penalty).
+The carrier is protection from evil.
+
+Damage: 1d12 +5 (blade)
+ETW0 Bonus: -5
+Weight: 7
+Initiative factor: 4
+Minimum thickness 10
+Skill: Axe
+Type: 1-handed
+
+Can only be used by:
+- Good nature
+- Dwarf
+- Barbarians
+- Combatants ~
+@44 = ~ Berronars ax +6 ~
+@45 = ~ To this legendary ax There are many legends. Supposedly Moradin have forged even this weapon as a gift to his faithful wife Berronar.
+
+On your journey through the Underdark and Breagar <CHARNAME> found the missing gems and repaired the ax in Cromwell's forge. This act aroused the interest of the gods and they gave the weapon an additional blessing. Since then, the ax shines in new splendor and is a formidable weapon in the fight against evil and riesenartige especially against giants.
+
+FEATURES:
+
+For each hit a 50% chance the enemy has owned for 10 seconds to knock her (saving throw vs. death, +2 penalty).
+The carrier is protection from evil.
+
+Damage:
+  1d12 +6 (blade)
+  1d12 +9 (vs. huge opponents)
+THAC0 Bonus: -6
+  -9 (Gg huge opponents)
+Weight: 7
+Initiative factor: 4
+Skill: Axe
+Type: 1-handed
+Minimum thickness 10
+
+Can only be used by:
+- Good nature
+- Dwarf
+- Barbarians
+- Combatants ~
+@46 = ~ Berronars shell ~
+@47 = ~ In such shells is melted on New Year's silver, which is being sacrificed in a ceremony Berronar. ~
+@48 = ~ Golemarm ~
+@49 = ~ The torn arm of a silver golems. ~
+@50 = ~ Breagars silver hand ~
+@51 = ~ By Berronars powerful magic was connected to the silver arm of the Guardian Golems with Breagars stump. Breagar can use the hand as if it were his own. The blessing of the goddess dwarf reinforced the metal enough that it Breagar block weapons and even magic attacks can weather a little. Unfortunately, the fingers of the new hand are too fat, than that he could strip a ring about them.
+
+FEATURES:
+
+  RK-Bonus: -2
+  RW Bonus: +2 ~
+@52 = ~ By Berronars powerful magic was connected to the silver arm of the Guardian Golems with Breagars stump. Breagar can use the hand as if it were his own. The blessing of the goddess dwarf reinforced the metal enough that it Breagar block weapons and even magic attacks can weather a little. Unfortunately, the fingers of the new hand are too fat, than that he could strip a ring about them.
+
+has provided through the meteoric, with the Breagar the arm, it is now even more robust.
+
+FEATURES:
+
+  RK-Bonus: -3
+  RW Bonus: +3 ~
+@53 = ~ Eishammer +3 ~
+@54 = ~ This gun belonged Reggik who wanted to test his skills in the rune forging. The rifle crack sparkle here and there in the cold and the metal silvery runes.
+
+FEATURES:
+
+If an opponent made, there is a 5% chance that the target dies the immediate hypothermia (saving throw vs. death).
+
+THAC0 Bonus: 0
+Weight: 4
+Initiative Factor: 1
+Skill: Hammer
+Type: 1-handed
+Minimum thickness 10
+
+Can not be used by:
+- Thieves
+- Druids
+- Mages
+- Monks ~
+@55 = ~ Reggiks Ring ~
+@56 = ~ Dwarven fragment ~
+@57 = ~ These papers are loose fragments of the history of Berronars ax.
+
+"... Immaculate purity was the silver blade ... ... ... Rubin finest fabric sun ..."~
+@58 = ~ These papers are loose fragments of the history of Berronars ax.
+
+"... From the hands Moradin took Mordinsamman ... ... ... falling star sapphire ..."~
+@59 = ~ These papers are loose fragments of the history of Berronars ax.
+
+"... A thousand avalanches ... he tore the ax in the air ... the artistic gems in the world of mortals ... ... ... Sapphire deepest depths of the Underdark ..."~
+@60 = ~ The story of the ax Berronars ~
+@61 = ~ In that time his wife made Moradin Berronar a princely gift. After year and day he forged a silver ax, the protection of the clan and in honor of his beloved wife. And of immaculate purity was the silver blade, ground with the finest fabric, and in your mid-Rubin, sparkling and bright as the setting sun.
+
+And when she took the ax out of the hands Moradin, glistened as the light on in the halls of Mordinsamman, and the sapphire at the head of the ax shone like a falling star.
+
+But since Abbathor, the dark god of greed catch sight of the weapon because he envied Berronar this piece and jumped at her and wrested away the gun and you ran from. Moradin but took his hammer and set off after the thief and caught him.
+
+And as herniederging Moradin hammer with the force of a thousand avalanches on the villainous predators, such as pulled the ax in the air and see: The gun was! But the artistic gems burst your version of it and jumped and landed in the world of mortals. The Emerald, which adorned the hilt of the ax, they flew over mountains and valleys and disappeared forever in the deepest depths of the Underdark. ~
+@62 = ~ Reggiks records ~
+@63 = ~ Among the different leaves, parchments and books is also a diary, told in the Reggik his story: how he Forres, the Duergar, met in the mines closed and friendship, like him the hatred of the Bardormar Duergar always more horrified and how he decided to seek the office of Groﬂschmiedes to end with the political influence Blutsfehlde.
+
+"If Breagar is just out of the way I have the best chance of inheriting Galthur in terms of the office. It saddens me to have to resort to such acts, but I know that is soft in his views Breagar an inch. He must to be overcome. I will change its records secret, so that his work is danebenschlagen. Berronar may forgive me that I have a clan member in the back fall, but it serves the greater good. "
+
+One of the last entries is:
+
+"Breagar has appeared with <CHARNAME> of Candlekeep in Athkatla. Will no doubt have both been freed soon from this strange dungeon, so it is important to act quickly. Forres has contact with a few Duergar added that for the Master of Shelter work and they will create Breagars ax aside. I hope that this act will be enough and I'm not forced to go to extremes. "~
+@64 = ~Stone Key of Anstinus~ 
+@65 = ~ This stone key will remove the magical barrier that blocks the basement of Anstinus' tower. ~
+@66 = ~The Blade of fear~ 
+@67 = ~ The Bastard sword seems a pale, inner light to shine and now and then one thinks, to go see a tremor through the blade. The whole sword is surrounded by an aura that evokes an unsettling feeling in the stomach.
+
+FEATURES:
+
+With each hit of a 20% chance of being cast on the enemy "fear" (saving throw vs. magic).
+
+Damage: 2d4 +1 (blade)
+ETW0 Bonus: -1
+Weight: 8
+Initiative Factor: 7
+Minimum thickness 11
+Proficiency: Bastard Sword
+Type: 1-handed
+
+Can not be used by:
+- Thieves
+- Druids
+- Clerics
+- Mages
+- Monks ~
+@68 = ~ Breagar ~
+@69 = ~ Hey, you there! ~ [ACBre_00]
+@70 = ~ Damn, I like it not at all. ~ [ACBre_01]
+@71 = ~ Yes, that is correct! Clangeddin we will be well disposed. ~ [ACBre_02]
+@72 = ~ That means you can not be serious, right? ~ [ACBre_03]
+@73 = ~ If you doing so on, then we will have time to talk. You, me and my ax. ~ [ACBre_04]
+@74 = ~'s enough. Not with me! ~ [ACBre_05]
+@75 = ~ So it is right, always good for the Dwarf forward! ~ [ACBre_06]
+@76 = ~ we are now running around not slowly enough? Let us rest. ~ [ACBre_07]
+@78 = ~ Tastes my ax! ~ [ACBre_09]
+@79 = ~ Clangeddin! ~ [ACBre_10]
+@80 = ~ on it! ~ [ACBre_11]
+@81 = ~ (battle cry) ~ [ACBre_12]
+@84 = ~ much more I can not stand! ~ [ACBre_15]
+@85 = ~ Hrmph. I hate the woods. ~ [ACBre_16]
+@86 = ~ One of these houses has to be a tavern after all. Whether there are dwarf beer? ~ [ACBre_17]
+@87 = ~ Under the earth feels a dwarf is quite comfortable. ~ [ACBre_18]
+@88 = ~ Yes? ~ [ACBre_21]
+@89 = ~ What is it? ~ [ACBre_22]
+@90 = ~ What do you want? ~ [ACBre_23]
+@91 = ~ Hmm? ~ [ACBre_24]
+@92 = ~ Out with it! ~ [ACBre_25]
+@93 = ~ Say what you will. ~ [ACBre_26]
+@94 = ~ Of course. ~ [ACBre_27]
+@95 = ~ Immediately. ~ [ACBre_28]
+@96 = ~ All clear. ~ [ACBre_29]
+@97 = ~, if you wish. ~ [ACBre_30]
+@98 = ~ Well then, forward! ~ [ACBre_31]
+@99 = ~ Why not. ~ [ACBre_32]
+@100 = ~ Yes. ~ [ACBre_33]
+@101 = ~ And it bothers me you? ~ [ACBre_34]
+@102 = ~ If I have to. ~ [ACBre_35]
+@103 = ~ Ha! Tastes my ax! ~ [ACBre_36]
+@104 = ~ Buzzurk! ~ [ACBre_37]
+@105 = ~ Buzzurk! No damage! ~ [ACBre_38]
+@106 = ~ I'm not your burro! ~ [ACBre_39]
+@107 = ~ BREAGAR of Clan Bardormar grumbles in his beard than you asks him about his life story. From the, what you can hear, he is from the storm Hornberger and has left his clan for reasons that a "foolish <PRO_RACE>, who crawled his life through a single tunnel," as he puts it, anyway can not understand . Perhaps the dwarf thaws in time a little and told by you, what drives him. ~
+@108 = ~ injured Breagar ~
+@109 = ~ Adam ~
+@110 = ~ Ascalon the bartender ~
+@111 = ~ Azzik ~
+@112 = ~ Taerom ~
+@114 = ~ sister Revianel ~ 
+@115 = ~ Lathander be with you! Can I do anything for you? ~ [ACREVI00]
+@116 = ~ miracle Bunny Virginie~ 
+@117 = ~ Malacheus ~
+@118 = ~ Silver dwarf ~
+@119 = ~ Yrrymyr ~
+@120 = ~ Anstinus ~
+@121 = ~ Audhild ~
+@122 = ~ dwarf ~
+@123 = ~ Galthur ~
+@124 = ~ Reggik ~
+@125 = ~ Duergar smugglers ~
+@126 = ~ Duergar smugglers ~
+@127 = ~ Grothir ~
+@128 = ~ Forres ~
+@129 = ~ scribe Oghmas ~
+@130 = ~ Hargek ~
+@131 = ~ Graschek ~
+@132 = ~ Evandie ~
+@133 = ~ Garthwin ~
+@134 = ~ Rhenja ~
+@135 = ~ Billek ~
+@136 = ~ Greshan Varsus ~
+@137 = ~ Karg ~
+@138 = ~ Duergark‰mpfer ~
+@139 = ~ Duergar Cleric ~
+@140 = ~ Once <CHARNAME> Breagar and had taken leave of each other, went back to the dwarf to the Sword Coast to finally fulfill his task of forging a ring of elements. He had to undergo many adventures, but a year and a day he finally stood before the gates of the halls of his clan to put Audhild the ring as a betrothal gift to the finger. He was received royally, because the client had to his deeds long since reached the clan halls. Breagar took over the post of master blacksmith, which he carried for many years conscientiously. As Audhild departed after a long and full life Breagar made a final journey. He attended Suldanessanar, Athkalta and Baldur's Gate, and many other places he had traversed with <CHARNAME>. Eventually his path led him to Candlekeep. The monks were quite astonished when an old dwarf reported with long, white beard, he had once taken with the Bhaalskind that had lived here. As a gift he bequeathed to the library entrance, a new book of Blacksmithing, from his own pen. Breagar was warmly received, but wanted to wake the monks him the next morning, the old dwarf was lying dead in his bed. Breagar was received with a happy smile in Berronars halls to spend eternity at the side of his beloved Audhild. ~
+@141 = ~ Once <CHARNAME> Breagar and had taken leave of each other, went back to the dwarf to the Sword Coast to finally fulfill his task of forging a ring of elements. He had to undergo many adventures, but a year and a day he finally stood before the gates of the halls of his clan to put Audhild the ring as a betrothal gift to the finger. Breagar took over the post of master blacksmith, after Galthur sat down to rest and when after some years of exile Reggik again stood before the gates of the clan halls, sat down for his Breagar a resumption in the middle of clans. Reggik Breagar and were perhaps not the best of friends, but both had learned to see through their personal views of time and worked as a perfect team, the clan honor. As passed away after a long life Audhild Breagar made one last journey. He attended Suldanessanar, Athkalta and Baldur's Gate, and many other places he had traversed with <CHARNAME>. Eventually his path led him to Candlekeep. The monks were quite astonished when an old dwarf reported with long, white beard, he had once taken with the Bhaalskind that had lived here. As a gift he bequeathed to the library entrance, a new book of Blacksmithing, from his own pen. Breagar was warmly received, but wanted to wake the monks him the next morning, the old dwarf was lying dead in his bed. Breagar was received with a happy smile in Berronars halls to spend eternity at the side of his beloved Audhild. ~
+@142 = ~ Once <CHARNAME> Breagar and had taken leave of each other, went back to the dwarf to the Sword Coast to finally fulfill his task of forging a ring of elements. He had to undergo many adventures, but a year and a day he finally stood before the gates of the halls of his clan to put Audhild the ring as a betrothal gift to the finger. Breagar took over the post of master blacksmith, after Galthur are retired. Reggik, his rival for the post, had learned from his mistakes and even if he was not master blacksmith, he used his knowledge to the outside world in order to obtain the post of trade master. Reggik Breagar and were perhaps not the best of friends, but both had learned to see through their personal views of time and worked as a perfect team, the clan honor. As passed away after a long life Audhild Breagar made one last journey. He attended Suldanessanar, Athkalta and Baldur's Gate, and many other places he had traversed with <CHARNAME>. Eventually his path led him to Candlekeep. The monks were quite astonished when an old dwarf reported with long, white beard, he had once taken with the Bhaalskind that had lived here. As a gift he bequeathed to the library entrance, a new book of Blacksmithing, from his own pen. Breagar was warmly received, but wanted to wake the monks him the next morning, the old dwarf was lying dead in his bed. Breagar was received with a happy smile in Berronars halls to spend eternity at the side of his beloved Audhild. ~
+@143 = ~ Once <CHARNAME> Breagar and had taken leave of each other, went back to the dwarf to the Sword Coast. Even if he would like to return to the halls Bardormar, he feared that breaking his heart at the sight of Reggik and Audhild would. Breagar Beregost settled in and took over the thunder hammer mill after Taerom had sat down to rest. Soon, his arms were everywhere known and it was among the dandies of Athkalta to Neverwinter fashionable to own a "real Breagar. When the dwarf, died in advanced age, his remains were transferred to the halls of his beloved clan, he never again had seen in his lifetime. Thus found Breagar letzenendes still resting in the bosom of his homeland. ~
+@144 = ~ The audio and graphic files have just been unpacked to
+your game. You should not see any error messages above.
+However, if you do, please report back to geheimer.herrscher @gmx.de ~
+@145 = ~ Breagar: Crossmods and PID ~
+@146 = ~ You have not installed the main part of Breagar. Installation will be aborted. ~
+@147 = ~ Found:  DSotSC~
+@148 = ~ Found:  NTotSC~
+@149 = ~ Found: The Grey Clan Ep.1 ~
+@150 = ~ Found:  Solaufein~
+@151 = ~ Found: Mulgore & Xavia ~
+@152 = ~ Found: Baldur's Gate Mini Quests and Encounters ~
+@153 = ~ Found: Lure of the Sirin's call ~
+@154 = ~ Found:  Indira~
+@155 = ~ Found:  Mur'Neth~
+@156 = ~ Found: Secret of Bonehill ~
+@157 = ~ Found:  Yasraena~
+@158 = ~ Found: Imoen Romance ~
+@159 = ~ Found: Amber ~
+@160 = ~ Found:  Stone of Ashkavar~
+@161 = ~ Found:  ToBR~
+@162 = ~ installation successfull. Do not forget to install the BP-BGT-worldmap! ~
+@163 = ~ Neila ~
+@164 = ~ A Portrait of Breagar: ~
+@165 = ~ Please select a portrait:
+
+[1] Original Art by Nix
+[2] Alternative Portraits from v4.x ~
+@166 = ~ portrait will be installed: Original Art by ~ Nothing
+@167 = ~ portrait will be installed: Portrait of Alternatives v.4.X ~
+@168 = ~ Please choose 1 or 2 and then press ENTER. ~
+@169 = ~ Found: ~ Alassa
+
+@5000 = ~ * giggle * ~
+@5001 = ~ Boah! ~
+@5002 = ~ *  * Tuschel~
+@5003 = ~ Hehehe ~ 
+@5004 = ~ Toll! ~
+@5005 = ~ Caution! Mama's coming! ~
+@5006 = ~ Well done ... Carefully ... ~
+@5007 = ~ What the ... ~
+@5008 = ~ Ahh, adventure! Good for dessert! ~
+@5009 = ~ Duerra! Give me strength! ~
+@5010 = ~ Father! No! ~
+@5011 = ~ I'll help! ~
+@5012 = ~ Do you understand now? ~
+@5013 = ~ your reinforces your own arm! Genial! ~
+@5014 = ~ I can hear you! ~
+@5015 = ~ Buzzurk! Open the door! ~
+@5016 = ~ This is not funny! ~
+@5017 = ~ Now makes it! ~
+@5018 = ~ damned foolish <PRO_RACE>! ~
+@5019 = ~ The bar is closed! ~
+@5020 = ~ you have taken too long. Breagar died. ~
+@5021 = ~ Hello? I need to talk with you! ~
+
+@10000 = ~ Find the book of dwarves
+
+A dwarf in Winthrop Inn wants me to bring him a book that seems to get Adam, but then forget. I hasten to my dear, this guy just does not seem to be in high spirits. ~
+@10001 = ~ Find the book of dwarves
+
+I have sent Adam into the tavern, so he delivers the book. Maybe I should check that he has done really well. ~
+@10002 = ~ Find the book of dwarves
+
+I have offered Adam to hand over the book for him. Now I should work cut me, to also make it real. ~
+@10003 = ~ Find the book of dwarves
+
+I have ensured that the dwarf gets his book. I hope now is peace. ~
+@10004 = ~ Breagars book
+
+I have made sure that Breagar, the dwarf, get his book. He's probably already left for Beregost. Let's see if I will meet him ever again. I will certainly take him in the Windy imposter or the thunder hammer forge. ~
+@10005 = ~ Breagar accompanied us to the mines
+
+Breagar, the dwarf, whom I met in Candlekeep, is in search of unspoiled irons. We travel together in the mines, there to look after things. ~
+@10006 = ~ Breagar would buy a nice piece of iron
+
+I will keep their eyes if I can bring from my trips Breagar a beautiful piece of iron. He waits in Beregost on me. ~
+@10007 = ~ Breagar found Iron
+
+We could a goblin a beautiful piece of iron from the claws tear. Breagar is very best mood and would so quickly it's back to Beregost. ~
+@10008 = ~ Breagar forges a magic ring
+
+Breagar need some more time with his ring. If I want to be there when the runes are engraved, then I come in earlier than a day in the night to thunder hammer forge. ~
+@10009 = ~ Breagar forges
+
+Breagar has left us, to forge something important. I already am a little curious what the well could be, maybe I should carry out its invitation and stop by. ~
+@10010 = ~ Breagar had an accident
+
+Something went wrong! Breagars ring has discharged all his magic power in an explosion and himself severely injured. Only a well-educated cleric now he can still help. I did get a maximum of two hours to help him. ~
+@10013 = ~ A giant in the cloud tops?
+
+A silver dwarf, which is itself off as "messenger Berronars" has made a Breagar task. In the cloud tops are driving around a giant who has a bruised temple. We should zur¸ckergattern the three artifacts, which he has stolen, and kill the giant. ~
+@10014 = ~ A giant in the cloud tops!
+
+In the mountains actually wandered around the giant Yrrymyr! The fight was easier than expected, because the giant had probably weakened by the long journey. Nevertheless, replacing the reward of the effort is not bad: Breagars arm was lost by a silver ax Berronars Golemarm and the sacred is also its reward. Besides leading the giant not a little gold with it ... ~
+@10015 = ~ Gloomy Prophecies
+
+called the strange dwarf who Breagar "messenger Berronars" had to report to me a few things. Apparently the dwarf gods to me to entertain a particular interest. Breagar was determined to accompany me on my path and I believe that a brave fighter as he can be quite useful. It remains to be seen what is meant by the words: From the ashes of the dead gods will create new life ... ~
+@10016 = ~ Grothir need evidence
+
+Grothir, a dwarf clan from Breagars need evidence of the betrayal of the Iron Throne. And something more substantial than paper. If I find something, then I should bring the evidence to the "celebrants sturgeon. ~
+@10017 = ~ and Mendas Baldurans discovery
+
+We have agreed to sail for Mendas over the sea without trace and bring him the logbook of Baldurans last trip. Mendas will rent a boat and meet us at the port of Ulgoths beard. ~
+@10018 = ~ The book on Berronars ax
+
+We have found a priest in the temple of Oghma who restored the book to us. In a Zehntag we know hopefully more accurate. ~
+@10019 = ~ The book on Berronars ax
+
+The priest gave us back the book. It is indeed a very beautiful tome, hopefully the information contained therein is actually useful. ~
+@10020 = ~ and Breagar Berronars ax
+
+We have found in the Underdark, the three missing gems and Breagar want to remove the ax. Cromwell will probably be the appropriate place for it. ~
+@10021 = ~ and Breagar Berronars ax
+
+Breagar has not been able to put the ax to its original condition. We will have to hope that with this weapon, it also offers enough support. ~
+@10022 = ~ and Breagar Berronars ax
+
+Breagar has really made it! With my help he has put the three stones from the Underdark to their anstammten places and now radiates the ax back into their former glory. Our enemies are to provide for themselves ... ~
+@10023 = ~ Breagar want to talk to Taerom
+
+Breagar would like to travel around Beregost Taerom to present his new arm. ~
+@10024 = ~ Revianel sister has disappeared
+
+Taerom told us that Revianel sister disappeared on a mission for the temple. Keldath Ormlyr will give us more to say about it. ~
+@10025 = ~ Revianel sister has disappeared
+
+The Cleric probably disappeared in Baldur's Gate, when she was a quarter a large presence of undead on the track in the X. There, I should probably start, the biggest success I have probably at night. ~
+@10026 = ~ the puzzle of Breagars ax
+
+A mysterious dwarf is stepped up to us and says he would have been stolen information on Berronars ax Breagar. If we want to pursue this track, we will take it down to the water, the bridge district at night. ~
+@10027 = ~ the puzzle of Breagars ax
+
+Audhild has opened to us that the thief of the ax is probably fled to the port where the shadow thieves have their quarters. There we should continue our search. ~
+@10028 = ~ the puzzle of Breagars ax
+
+The shadow thief who sells stolen goods, has told us that we should come back in an hour. ~
+@10029 = ~ the puzzle of Breagars ax
+
+Apparently thieves driving around in Athkalta that spark the shadow thieves into the shop and have stolen the ax. I promised that we dig the thieves, as a reward to me alone belongs the spoils of this train. ~
+@10030 = ~ the puzzle of Breagars ax
+
+We have recovered Berronars ax! Now would Breagar that we go to the inn at Waukee Mithrest promenade to take Galthur, he has his superiors probably have to wait long enough. ~
+@10031 = ~ and Breagar Audhild
+
+Breagar has decided to stay with us and end his quest for justice. ~
+@10032 = ~ and Breagar Audhild
+
+I have Breagar released from my service, so that he can explore with Audhild for a solution to his problem. This is probably the best for all. ~
+@10033 = ~ and Breagar Audhild
+
+I will stand by Breagar with his problem. Obviously Reggik somehow involved in Breagars accident and we now have a Zehntag time proves this to be found. Reggik has probably detected something in the Troll Mountains, if anyone knows anything about such things, then Cromwell. We should talk to him. ~
+@10034 = ~ and Breagar Audhild
+
+Cromwell has the Tower of us Anstitus marked on our map, which is located deep in the Troll Mountains. It is the only track that we have. Let us hope that it is the right one. ~
+@10035 = ~ and Breagar Audhild - The Tower
+
+We have found the tower, has described the Cromwell us. Now it is important to find the evidence. ~
+@10036 = ~ and Breagar Audhild - A not so warm welcome
+
+Apparently, the owner of the tower, Anstinus, not at all built about the fact that he receives a visit. ~
+@10037 = ~ and Breagar Audhild - The Spirit of Anstinus
+
+I have killed the spirit that inhabited the tower. Now I should rest in the other floors to explore. ~
+@10038 = ~ and Breagar Audhild - The Spirit of Anstinus
+
+Anstinus Reggik has signed a pact to guard the door to the lower vaults until the recipe was made of green fire. Seh'n time, what you can do there. ~
+@10039 = ~ and Breagar Audhild - The Spirit of Anstinus
+
+I was able to meet Anstitus' task and have freed him from his restless existence as a spirit. It is now to move into the basement. ~
+@10040 = ~  and Breagar Audhild - Reggik and Duergar
+
+In the basement of the Tower of Anstinus I killed a Duergar, who was obviously Reggik and contributed to his records with him. This should suffice as evidence of guilt Reggiks, we must hurry to travel with Breagar together after trading venue. ~
+@10041 = ~  and Breagar Audhild - Reggik and Duergar
+
+In the basement of the Tower of Anstinus we met Forres, a Duergar, who was obviously Reggik and contributed to his records with him. This should suffice as evidence of guilt Reggiks, we must hurry to travel with Breagar together after trading venue. ~
+@10042 = ~  and Breagar Audhild - The Bardormarzwerge retreat to set foot
+
+Breagar, Reggik Galthur and will discuss the case at Reggiks betrayal. For me no choice but to wait, Breagar wants me to go to the tavern trade meeting, where they have come to a verdict. ~
+@10043 = ~ Justice for Breagar
+
+Galthur Reggik condemned for his betrayal. The Smith has been banned for ten years from the halls Bardormars and there is hope for Breagar, but still the office of Groﬂschmiedes and thus win Audhild hand. For now, however, he will continue to travel with us, I am glad to know such a loyal friend by my side. ~
+@10044 = ~ Justice for Breagar
+
+Reggik Breagar is dead and has finally got his justice. He has left us to travel together with Audhild back to the halls of the clan Bardormar. ~
+@10045 = ~ Justice for Breagar
+
+Reggik Breagar is dead and has finally got his justice. Although the price may have been for quite high, there is hope again for Breagar, but still the office of Groﬂschmiedes and thus win Audhild hand. For now, however, he will continue to travel with us, I am glad to know such a loyal friend by my side. ~
+@10046 = ~ The book on Berronars ax
+
+We have found parts of a book that tells the story of Berronars ax. Breagar says it's a valuable piece and we should assemble the book. Maybe you can help us in Oghmatempel. ~
+@10047 = ~ The book on Berronars ax
+
+The scribe in Oghmatempel estimates that there are three parts of the book on Berronars ax. We should keep our eyes on some countries and in Pimlico harper open. And of course, with the dwarves. ~
